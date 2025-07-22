@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/uPVC-doors-and-windows/:path*",
-      "destination": "https://aluempire-upvc.vercel.app/uPVC-doors-and-windows:path*"
+      "destination": "https://aluempire-upvc.vercel.app/uPVC-doors-and-windows/:path*"
     }
   ]
 }
