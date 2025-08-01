@@ -3,6 +3,10 @@
     {
       "source": "/uPVC-doors-and-windows/:path*",
       "destination": "https://aluempire-upvc.vercel.app/uPVC-doors-and-windows/:path*"
+    }, 
+     {
+      "source": "/aluminium-door-matting-system/:path*",
+      "destination": "https://aluempire-matt.vercel.app/aluminium-door-matting-system/:path*"
     }
   ]
 }
