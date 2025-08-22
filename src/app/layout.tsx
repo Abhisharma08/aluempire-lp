@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     'Transform your interiors with elegant, flexible, and space-saving sliding partition doors tailored to your design vision.',
 };
 
-const GA_ID = 'AW-16659725378';
+const GA_ID = 'AW-17338354366';
 
 export default function RootLayout({
   children,
