@@ -197,6 +197,7 @@ export default function LeadForm() {
                                                 <SelectContent>
                                                     <SelectItem value="Office">Office</SelectItem>
                                                     <SelectItem value="Home">Home</SelectItem>
+                                                    <SelectItem value="Shower Cubicle">Shower Cubicle</SelectItem>
                                                 </SelectContent>
                                             </Select>
                                             <FormMessage />

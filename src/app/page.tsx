@@ -9,7 +9,7 @@ import WhyChooseUsSection from '@/components/why-choose-us-section';
 import IdealApplicationsSection from '@/components/ideal-applications-section';
 import FaqSection from '@/components/faq-section';
 import CtaSection from '@/components/cta-section';
-
+import { Railing } from '@/components/shower';
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen bg-background">
@@ -21,6 +21,9 @@ export default function Home() {
         </AnimatedSection>
         <AnimatedSection>
           <ProductTypesSection />
+        </AnimatedSection>
+         <AnimatedSection>
+          <Railing />
         </AnimatedSection>
         <AnimatedSection>
           <WhyChooseUsSection />
