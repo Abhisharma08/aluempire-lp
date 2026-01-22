@@ -7,6 +7,11 @@
      {
       "source": "/aluminium-door-matting-system/:path*",
       "destination": "https://aluempire-matt.vercel.app/aluminium-door-matting-system/:path*"
+    }, 
+
+    {
+      "source": "/ACETECH-hyderabad-2026/:path*",
+      "destination": "https://alu-empire-exhibiton.vercel.app/ACETECH-hyderabad-2026:path*"
     }
   ]
 }
