@@ -11,7 +11,7 @@
 
     {
       "source": "/ACETECH-hyderabad-2026/:path*",
-      "destination": "https://alu-empire-exhibiton.vercel.app/ACETECH-hyderabad-2026:path*"
+      "destination": "https://alu-empire-exhibiton.vercel.app/ACETECH-hyderabad-2026/:path*"
     }
   ]
 }
