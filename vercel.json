@@ -12,6 +12,11 @@
     {
       "source": "/ACETECH-hyderabad-2026/:path*",
       "destination": "https://alu-empire-exhibiton.vercel.app/ACETECH-hyderabad-2026/:path*"
+    }, 
+
+    {
+      "source": "/aluminium-skirting-systems/:path*",
+      "destination": "https://alu-empire-skirting.vercel.app/aluminium-skirting-systems/:path*"
     }
   ]
 }
